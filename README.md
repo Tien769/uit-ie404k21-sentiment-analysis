@@ -2,7 +2,7 @@ This project requires a list of pretrained word vector to work. To download the 
     1. Download the Zip Archive from this link: 
     2. Extract its content into the project folder.
     
-The resulting folder tree should look like this:
+The resulting folder tree should look like this: https://drive.google.com/file/d/19o4GGVd6XIh9yUPuBtAklov9Lnk7f6ER/view?usp=sharing
 
     projectfolder/
         -data/
