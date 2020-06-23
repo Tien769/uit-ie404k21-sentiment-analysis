@@ -14,3 +14,8 @@ The resulting folder tree should look like this:
             -----word vectors-----
         -.gitinore
         -README.md
+
+Usage:
+    1. Download and install VSCode.
+    2. Install the extension Python.
+    3. Run jupyter notebook files in jupyter/
